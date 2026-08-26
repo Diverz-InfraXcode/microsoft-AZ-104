@@ -135,7 +135,7 @@ One project per exam domain, done after completing the corresponding learning pa
 
 | Phase | Project | Exam Domain | Status |
 |-------|---------|-------------|--------|
-| Prerequisites | ARM + Bicep exercise | ARM templates, Bicep syntax | 🔴 Not started |
+| Prerequisites | ARM exercise | ARM templates | ✅ Done |
 | Identity & Governance | [Onboard Automator](projects/onboarder.md) | Entra ID, RBAC, Policy, governance | 🔴 Not started |
 | Storage | [ShareSafely](projects/sharesafely.md) | Storage accounts, Blob, Azure Files, SAS | 🔴 Not started |
 | Compute | [VM Fleet Commander](projects/vmfleetcommander.md) | VMs, Bicep, VMSS, App Service, ACI | 🔴 Not started |
