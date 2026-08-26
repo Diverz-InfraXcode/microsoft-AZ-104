@@ -8,12 +8,12 @@ Hands-on preparation for the [Microsoft Certified: Azure Administrator Associate
 
 | | |
 |---|---|
-| **Phase** | AZ-104 Prerequisites |
+| **Phase** | Phase 1 — Identity & Governance |
 | **Status** | 🟡 In progress |
-| **Modules** | [AZ-104: Prerequisites for Azure administrators](https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/) |
-| **Project** | — |
-| **Next up** | Phase 1 — Identity & Governance |
-| **Last updated** | 2026-08-25 |
+| **Modules** | [AZ-104: Manage identities and governance in Azure](https://learn.microsoft.com/en-us/training/paths/az-104-manage-identities-governance/) |
+| **Project** | [Onboard Automator](projects/onboarder.md) |
+| **Next up** | Phase 2 — Storage |
+| **Last updated** | 2026-08-26 |
 
 ---
 
