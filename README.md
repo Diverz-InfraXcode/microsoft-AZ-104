@@ -8,12 +8,12 @@ Hands-on preparation for the [Microsoft Certified: Azure Administrator Associate
 
 | | |
 |---|---|
-| **Phase** | Microsoft Azure Fundamentals |
+| **Phase** | AZ-104 Prerequisites |
 | **Status** | 🟡 In progress |
-| **Modules** | Starting with Fundamentals |
+| **Modules** | [AZ-104: Prerequisites for Azure administrators](https://learn.microsoft.com/en-us/training/paths/az-104-administrator-prerequisites/) |
 | **Project** | — |
-| **Next up** | Azure Fundamentals |
-| **Last updated** | 2026-08-23 |
+| **Next up** | Phase 1 — Identity & Governance |
+| **Last updated** | 2026-08-25 |
 
 ---
 
